@@ -3,7 +3,7 @@ A comprehensive data analysis project using SQL, Power BI, and DAX to uncover ac
 🔍 Project Highlights
 SQL: Extracted, filtered, and aggregated ride data to analyze key metrics like total revenue, average fare, ride frequency, and driver performance.
 
-Power BI: Built an interactive dashboard showcasing ride trends, top routes, peak hours, and revenue by city/driver.
+Power BI: Built an interactive dashboard showcasing ride trends, top routes, peak hours, and revenue by city/drivers.
 
 DAX: Used calculated columns and measures to compute KPIs like revenue per ride, monthly growth, and utilization rate.
 
