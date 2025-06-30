@@ -1,15 +1,24 @@
-A comprehensive data analysis project using SQL, Power BI, and DAX to uncover actionable insights from Ola's ride data and visualize performance trends for strategic decision-making.
+I worked on a data analysis project for Ola ride data on July 2024, using SQL for data extraction and Power BI for visualization.
 
-🔍 Project Highlights
-SQL: Extracted, filtered, and aggregated ride data to analyze key metrics like total revenue, average fare, ride frequency, and driver performance.
+📊 Goal:
+The objective was to uncover key insights about ride performance, booking trends, cancellations, payment behavior, and customer satisfaction during the month.
 
-Power BI: Built an interactive dashboard showcasing ride trends, top routes, peak hours, and revenue by city/drivers.
+🔍 Key Highlights:
+1. Analyzed over 1 lakh bookings with a total value of ₹35M.
+2. Found that around 62% rides were successful, while the overall cancellation rate was 28%.
 
-DAX: Used calculated columns and measures to compute KPIs like revenue per ride, monthly growth, and utilization rate.
+Among cancellations:
+1. Drivers canceled mostly due to personal or vehicle issues (35.5%)
+2. Customers canceled due to issues like driver not moving toward pickup or change of plans
 
-🛠️ Tools & Technologies
-SQL (Joins, CTEs, Aggregations, Filters)
+💰 Revenue Insights:
+1. UPI and cash were the dominant payment modes, together contributing the majority of the revenue.
+2. Identified top 5 customers contributing significantly to booking value.
 
-Power BI (Dashboard Design, Slicers, Visualizations)
+📈 Trend Analysis:
+1. Built time-series charts for ride volume, distance per day, and booking value, spotting peaks during weekends.
+2. Tracked driver and customer ratings, which remained stable around 4.00, indicating consistent service quality.
 
-DAX (Custom Measures, Time Intelligence Functions)
+✅ Tools Used:
+SQL: for data filtering, aggregation
+Power BI: for interactive dashboards using DAX & Power Query.
