@@ -1,4 +1,4 @@
-I worked on a data analysis project for Ola ride data on July 2024, using SQL for data extraction and Power BI for visualization.
+I worked on a data analysis project for Ola ride data on July 2024, using SQL for data extraction and Power BI for visualization & ETL.
 
 📊 Goal:
 The objective was to uncover key insights about ride performance, booking trends, cancellations, payment behavior, and customer satisfaction during the month.
